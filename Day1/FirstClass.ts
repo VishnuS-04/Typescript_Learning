@@ -10,3 +10,4 @@
 // If you want only TypeScript file execute then the command line as = tsx FolderName\TypeScriptFile.ts
 
 console.log("Hi Vishnu");
+history
